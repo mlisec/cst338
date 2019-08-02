@@ -1,0 +1,55 @@
+Card is invalid.
+Hand is full.
+(A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS, K of HEARTS, A of SPADES, 3 of DIAMONDS)
+3 of DIAMONDS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+Playing K of HEARTS
+Playing 3 of DIAMONDS
+Playing A of SPADES
+()
